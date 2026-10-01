@@ -30,7 +30,7 @@ const journey: RouteStop[] = [
   {
     id: '03',
     year: '2024 - NOW',
-    title: 'B.ENG. ELECTRONICS & COMMUNICATIONS',
+    title: 'Electronics & Communications Engineering Student',
     organization: "ENET'COM SFAX",
     description:
       'Engineering degree in Electronics and Communications, focused on AI for biomedical signal processing and intelligent embedded systems.',
