@@ -39,7 +39,7 @@ const bentoCategories = [
 
 const languages = [
   { name: 'Arabic', level: 'Native' },
-  { name: 'French', level: 'C1' },
+  { name: 'French', level: 'B2' },
   { name: 'English', level: 'B2' },
 ];
 
